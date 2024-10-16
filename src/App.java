@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+import models.*;
+
 public class App {  
     static Jogador jogador1 = new Jogador();
     static Jogador jogador2 = new Jogador();
